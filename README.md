@@ -3,6 +3,8 @@
 ## 📌 Project Description  
 LiveLyrics is an innovative real-time lyrics display application that enhances the music experience by providing synchronized lyrics as a song plays in the background. Whether users are listening to their favorite tracks or discovering new songs, LiveLyrics ensures they can follow along with perfectly timed lyrics.  
 
+<a href="https://docs.google.com/document/d/15N5PoCGYghaoIuoet8d2f6_qibDd_WKDkRhs1Xh29Ik/edit?usp=sharing" style="font-weight: bold; font-size: 18px;">Documentation</a>
+
 ## ✨ Key Features  
 - **🎵 Real-Time Song Recognition:** Detects the song playing in the background using an audio recognition API (e.g., ACRCloud or AudD).  
 - **📜 Instant Lyrics Fetching:** Retrieves song lyrics dynamically from a lyrics database (Musixmatch, Genius API).  
